@@ -4,7 +4,7 @@
 
 ## Description 
 
-A Progressive Web Application for a user to add funds, subtract funds, and to view a graph of expense trends. This app is functional both online and offline and has the option to be installed
+A Progressive Web Application for a user to add funds, subtract funds, and to view a graph of expense trends. This app is functional both online and offline and has the option to be installed.
 
 The technologies used in this application are:
 Node.js, Express, MongoDB, mongoose, morgan, compression, JavaScript, HTML, and CSS
